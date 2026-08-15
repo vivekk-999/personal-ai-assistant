@@ -1,0 +1,29 @@
+python-dotenv
+# Core LangChain (official packages only — langchain-classic removed)
+langchain>=0.3
+langchain-community>=0.3
+langchain-core>=0.3
+langchain-groq>=0.2
+langchain-huggingface>=0.1
+langchain-text-splitters>=0.3
+langchain-mongodb>=0.3
+# Document loaders
+pypdf
+docx2txt
+unstructured[xlsx,md]>=0.15
+pandas
+openpyxl
+# Retrieval
+rank-bm25
+sentence-transformers
+rapidfuzz
+huggingface-hub
+# API
+fastapi
+uvicorn[standard]
+python-multipart
+# Database
+motor>=3.3
+pymongo>=4.6
+reportlab
+

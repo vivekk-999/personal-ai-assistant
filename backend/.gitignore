@@ -1,0 +1,45 @@
+# Backend Environment & secrets
+.env
+.env.*
+.env.local
+!.env.example
+*.local
+
+# Python bytecode & caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Application logs
+logs/
+*.log
+
+# Uploaded documents (preserve directory with .gitkeep)
+uploads/*
+!uploads/.gitkeep
+test_gen.pdf
+
+# Local data dumps and state
+*.local_mongo.json
+.local_mongo.json
+local_history.json
+*.sqlite
+*.db
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
