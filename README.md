@@ -4,16 +4,6 @@
 
 ---
 
-## 🛒 Commercial Availability & Gumroad License
-
-This software is an AI platform designed for independent developers, founders, and teams looking to self-host or integrate document RAG and vision capabilities into their workflows.
-
-- **Purchase Commercial License**: Available on Gumroad
-- **What You Receive**: Complete unminified source code (FastAPI backend + React frontend), 3-tier RAG engine, verified automated test suites, setup scripts, and documentation.
-- **License Terms**: Full rights to customize, self-host, and deploy for personal and commercial business infrastructure. Reselling or distributing the source code is strictly prohibited (see [LICENSE](LICENSE)).
-
----
-
 ## 📑 Table of Contents
 
 - [Overview](#-overview)
@@ -305,10 +295,11 @@ uvicorn main:app --host 0.0.0.0 --port 8000 --workers 4
 
 ---
 
-## 📜 Commercial License & Terms
+## 📜 License
 
-This software is distributed under a **Custom Commercial License Agreement**.
-- **Copyright (c) 2026 Vivek Chowdary Dama / Personal AI Assistant. All rights reserved.**
-- Buyers are granted full rights to use, customize, and deploy the application for internal and client commercial workflows.
-- Public redistribution, sublicensing, reselling, or open-sourcing of the underlying source code is strictly prohibited.
-- See the full legal agreement in [LICENSE](LICENSE).
+This project is proprietary software distributed under a custom commercial license.
+
+- **Copyright © 2026 Vivek Chowdary Dama. All rights reserved.**
+- Authorized users may use, modify, customize, self-host, and deploy the Personal AI Assistant for personal and commercial purposes.
+- Redistribution, resale, sublicensing, public distribution, or unauthorized sharing of the source code is prohibited.
+- The complete license terms are available in [LICENSE] (LICENSE).
