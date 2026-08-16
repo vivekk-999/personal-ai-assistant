@@ -1,57 +1,116 @@
 COMMERCIAL SOFTWARE LICENSE AGREEMENT
 
-Copyright (c) 2026 Vivek Chowdary Dama / Personal AI Assistant. All rights reserved.
+Copyright (c) 2026 Vivek Chowdary Dama
+Personal AI Assistant
 
-IMPORTANT — READ CAREFULLY:
-This Commercial Software License Agreement ("Agreement") is a legal agreement between you ("Licensee" or "Customer") and the Author/Copyright Holder ("Licensor") for the Personal AI Assistant software, source code, documentation, and related assets (collectively, the "Software").
+All Rights Reserved.
 
-By purchasing, downloading, installing, copying, or otherwise using this Software, you agree to be bound by the terms and conditions of this Agreement. If you do not agree to the terms of this Agreement, do not purchase, download, or use the Software.
+1. OWNERSHIP
 
-================================================================================
-1. OWNERSHIP & INTELLECTUAL PROPERTY
-================================================================================
-The Software and all intellectual property rights therein (including but not limited to source code, algorithms, architecture, user interfaces, branding, and documentation) are and shall remain the sole and exclusive property of the Licensor.
+The Personal AI Assistant, including its original source code, software
+architecture, design, user interface, documentation, and original materials,
+is the intellectual property of Vivek Chowdary Dama.
 
-This Software is licensed, NOT sold. The Licensee acquires no ownership rights in the Software other than the limited rights of use expressly granted in Section 2.
+This software is licensed, not sold. No ownership or copyright is transferred
+to any licensee.
 
-================================================================================
-2. GRANT OF LICENSE (PERMITTED USES)
-================================================================================
-Subject to valid purchase through Gumroad (or an authorized sales channel) and compliance with the terms of this Agreement, the Licensor grants the Licensee a non-exclusive, non-transferable, perpetual, revocable license to:
+2. PERMITTED USE
 
-(a) Install, run, and execute the Software on personal, developer, or organizational devices and servers.
-(b) Customize, adapt, and modify the source code for internal, personal, or private business operations.
-(c) Deploy and self-host the Software (and any derivative modifications) for personal or internal business workflows, internal company tools, and client-servicing backend infrastructure, provided that the underlying source code is not exposed, distributed, or resold to third parties.
+The licensee is permitted to:
 
-================================================================================
-3. RESTRICTIONS & PROHIBITED USES
-================================================================================
-The Licensee shall NOT:
+- Use the software for personal purposes.
+- Use the software for commercial purposes.
+- Modify and customize the source code.
+- Self-host and deploy the software.
+- Deploy the software on private servers or cloud infrastructure.
+- Integrate the software into private or commercial applications.
+- Use a deployed instance of the software for business operations.
 
-(a) Resell, redistribute, share, transfer, assign, lease, rent, or sublicense the Software, in whole or in part, in source code or binary form, whether for fee or free of charge.
-(b) Publish, host, or make the source code publicly accessible on any public repository (including public GitHub, GitLab, Bitbucket, forums, or download mirrors).
-(c) Package, bundle, or distribute the Software (or any derivative version) as a competing template, digital product, source-code pack, starter kit, or marketplace item (e.g., on Gumroad, Envato, CodeCanyon, Etsy, or similar platforms).
-(d) Remove, obscure, or alter any copyright notices, authorship credits, or proprietary marks from the Software.
-(e) Claim copyright, patent, trademark, or proprietary authorship over the original source code, architecture, or design.
+3. RESTRICTIONS
 
-================================================================================
-4. THIRD-PARTY LIBRARIES & DEPENDENCIES
-================================================================================
-The Software utilizes open-source third-party libraries and frameworks (e.g., FastAPI, React, Vite, LangChain, Motor, PyMongo, Lucide).
+The licensee may NOT:
 
-All third-party libraries incorporated or referenced by the Software remain subject to their respective open-source licenses (such as MIT, Apache 2.0, BSD). Nothing in this Agreement restricts or overrides your rights under applicable open-source third-party software licenses.
+- Resell the original software or source code.
+- Redistribute the source code to another person or organization.
+- Publish the source code publicly.
+- Upload the source code to public repositories or file-sharing platforms.
+- Sublicense, lease, rent, transfer, or give the source code to another party.
+- Sell the source code as a template, starter project, framework, or
+  substantially similar software product.
+- Claim ownership or authorship of the original software.
+- Remove or alter copyright or license notices.
 
-================================================================================
-5. NO WARRANTY (DISCLAIMER)
-================================================================================
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+4. MODIFICATIONS
 
-================================================================================
-6. TERMINATION
-================================================================================
-This license is effective until terminated. Your rights under this license will terminate automatically without notice from the Licensor if you fail to comply with any term(s) of this Agreement. Upon termination, you must cease all use of the Software and destroy all copies, full or partial, of the Software.
+The licensee may modify and customize the software for their own personal
+or commercial use.
 
-================================================================================
-7. CONTACT & INQUIRIES
-================================================================================
-For commercial enterprise licensing, custom feature extensions, or support inquiries, please contact the author via the official project repository or Gumroad sales page.
+Any modifications remain subject to this license. Modification of the
+software does not transfer ownership of the original software or its
+intellectual property.
+
+Modified source code may not be redistributed or sold without written
+permission from the copyright holder.
+
+5. COMMERCIAL DEPLOYMENT
+
+The licensee may deploy and operate the software as part of commercial
+websites, applications, services, internal tools, and business systems.
+
+The licensee may provide services using a deployed instance of the software,
+provided that the underlying source code is not distributed or transferred
+to customers or other third parties.
+
+6. THIRD-PARTY COMPONENTS
+
+The software may use third-party libraries, frameworks, APIs, models, or
+other components.
+
+Third-party components remain subject to their respective licenses and
+terms. This license does not override or replace any applicable
+third-party license.
+
+7. WARRANTY DISCLAIMER
+
+THE SOFTWARE IS PROVIDED "AS IS" AND WITHOUT WARRANTIES OF ANY KIND,
+EXPRESS OR IMPLIED.
+
+THE COPYRIGHT HOLDER DOES NOT GUARANTEE THAT THE SOFTWARE WILL BE
+ERROR-FREE, SECURE, RELIABLE, OR AVAILABLE AT ALL TIMES.
+
+8. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER
+SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+CONSEQUENTIAL, OR OTHER DAMAGES ARISING FROM THE USE OF OR INABILITY
+TO USE THE SOFTWARE.
+
+9. TERMINATION
+
+This license automatically terminates if the licensee materially violates
+any of its terms.
+
+Upon termination, the licensee must stop using the software and destroy
+unauthorized copies of the software and source code.
+
+10. RESERVATION OF RIGHTS
+
+All rights not expressly granted by this license are reserved by the
+copyright holder.
+
+No ownership, copyright, trademark, patent, or other intellectual property
+rights are transferred except for the limited usage rights expressly
+granted in this license.
+
+11. ACCEPTANCE
+
+By downloading, accessing, installing, modifying, or using the software,
+the licensee agrees to the terms of this license.
+
+If the licensee does not agree to these terms, they must not use the
+software.
+
+Copyright (c) 2026 Vivek Chowdary Dama
+Personal AI Assistant
+
+All Rights Reserved.
